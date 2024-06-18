@@ -1,0 +1,6 @@
+title: Gurick Kooner
+description: "Gurick Kooner's Data Science Portfolio"
+baseurl: "" # the subpath of your site, e.g. /blog
+#url: "https://g-kooner.github.io" # the base hostname & protocol for your site
+theme: minima
+github_username: g-kooner
